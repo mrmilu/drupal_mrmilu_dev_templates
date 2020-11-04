@@ -1,0 +1,5 @@
+{
+ "name": "mrmilu/mrmilu_dev_templates",
+ "description": "Allow front developers to create templates that use the drupal templates system.",
+ "type": "drupal-mrmilu-module"
+}

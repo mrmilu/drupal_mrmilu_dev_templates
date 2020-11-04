@@ -1,0 +1,7 @@
+mrmilu_dev_templates:
+  path: '/dev-templates/{template}'
+  defaults:
+    _controller: '\Drupal\mrmilu_dev_templates\Controller\MrMiluDevTemplatesController::render'
+    _title: 'Mr. Milú Dev templates'
+  requirements:
+    _access: 'TRUE'
