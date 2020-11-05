@@ -13,7 +13,7 @@ Allows front developers to create templates that will be accesible via web like 
 
 1. Clear drupal cache: `drush cr`
 
-1. Now you can access your template in yourdomain.dev.mrmilu.com/dev/home or yourdomain.dev.mrmilu.com/dev/contact-page
+1. Now you can access your template in yourdomain.dev.mrmilu.com/dev-templates/home or yourdomain.dev.mrmilu.com/dev-templates/contact-page
 
 You can create a "components" folder inside this "dev" folder and use it across a lot of templates like `{% include 'dev-template--header.html.twig' %}`
 
